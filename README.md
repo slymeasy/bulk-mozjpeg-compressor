@@ -24,5 +24,5 @@ Bulk MozJPEG Compressor is a Python-based tool with a graphical user interface (
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/bulk-mozjpeg-compressor.git
+   git clone https://github.com/slymeasy/bulk-mozjpeg-compressor.git
    cd bulk-mozjpeg-compressor
